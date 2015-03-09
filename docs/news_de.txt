@@ -1,0 +1,8 @@
+
+News
+=========
+09.03.2015
+Update auf Version 4.0.0
+diverse deprecated funktionen ersetzt
+.htacces und php.ini hinzugefügt
+
